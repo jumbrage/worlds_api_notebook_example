@@ -1,0 +1,23 @@
+pandas
+requests
+Matplotlib
+Pillow
+
+
+
+User Account:  worlds-demo@microsoft.com 
+PW:3&7fj9!rbD2apHW
+
+Account had admin rights, some functionally will not be available without video files. For questions message Jacob.umbrage@worlds.io to Garrett.long@worlds.io 
+
+
+
+// Replace these with your actual values
+    //apiUrl = "http://172.21.16.142:8080",  // Your API URL
+    apiUrl = "https://graphql.chevron.worlds.io/graphql",
+    tokenId = "14d5b739-09e3-4972-a0eb-ada11d0bd4cb",                   // Your Token ID
+    tokenValue = "TRSP8gF0t92JqkiUMOTi",             // Your Token Value
+    queryChoice = "Detections",                  // Choose from "Detections", "Events", "Tracks", "ZoneEvents"
+    startTime = #datetimezone(2024, 9, 16, 0, 0, 0, 0, 0),   // Start time in UTC
+    endTime = #datetimezone(2024, 9, 16, 0, 2, 0, 0, 0), // End time in UTC
+    deviceId = "69",                      // Device ID (optional, can be empty "")
